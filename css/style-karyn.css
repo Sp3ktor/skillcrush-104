@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+  margin: 50px;
+}
+
+h1 {
+  font-family: 'Kranky', cursive;
+  font-size: 64px;
+  font-weight: 100;
+  color: #AF5B5B;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Kranky', cursive;
+  font-size: 30px;
+  font-weight: 200;
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.copyright {
+  color: #AF5B5B;
+}
+
+.nav-link {
+  font-family: 'Kranky', cursive;
+  font-weight: 200;
+  font-size: 24px;
+  text-decoration: none;
+}
